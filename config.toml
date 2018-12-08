@@ -21,10 +21,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     #    name    = "Gallery"
     #    url     = "/gallery"
     #    weight  = 4
-    [[menu.nav]]
-        name    = "Blog"
-        url     = "/blog"
-        weight  = 4
+    #[[menu.nav]]
+    #    name    = "Blog"
+    #    url     = "/blog"
+    #    weight  = 4
     #[[menu.nav]]
     #    name    = "Contact"
     #    url     = "/contact"
