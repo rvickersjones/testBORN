@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/coc/</loc>
+    <lastmod>2018-12-08T18:19:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/coc/"
+                />
+  </url>
+  
+  <url>
     <loc>/blog/making-your-open-research-community/</loc>
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
   </url>
@@ -34,16 +44,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/coc/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/coc/"
                 />
   </url>
   
