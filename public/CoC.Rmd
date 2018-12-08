@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Summary
 
-This file is the CoC.Rmd located in F:\Tools\RStudio\Default working directory\Repositories\testBORN\public. I have not edited the .html but I have Knitted.
+This file is the CoC.Rmd located in F:\Tools\RStudio\Default working directory\Repositories\testBORN\static. I have not edited the .html but I have Knitted. For some reason, Knitting this file in static updates the public Rmd file as well.
 
 The Brisbane Open Research Network (BORN) seeks to promote open practices, and as part of this vision is committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all. 
 All parties to activities associated with the Network are required to be compliant with the code of conduct.
