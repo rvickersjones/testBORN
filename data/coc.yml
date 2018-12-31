@@ -1,22 +1,12 @@
 enable  : true
 title   : What is our code of conduct?
 description: >
-  Testing, please work! The Brisbane Open Research Network is a collection of researchers and research-associated workers in Brisbane, Australia. It aims to facilitate the growth of open practices by bringing together independently motivated and like-minded people, and providing a platform for the sharing of resources. 
+  Content for this page located in F:\Tools\RStudio\Default working directory\Repositories\testBORN\data\coc.yml.
   </br></br>
-  We are part of a larger network, called the Australia and New Zealand Open Research Network (ANZORN). Together, we aim to ensure that nobody in ANZ needs to pursue open research alone.
+  The Brisbane Open Research Network (BORN) seeks to promote open practices, and as part of this vision is committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all. All parties to activities associated with the Network are required to be compliant with the code of conduct. If you observe something that you do not feel is consistent with these principles, please report them to the steering committee.
   </br></br>
-  Not sure if you're an open researcher? That's okay! We welcome people at any level of interest in open research, even people who have never even heard of it. You're welcome to follow us on <a href="https://twitter.com/BrisOpenRes">Twitter</a>, swing by the ANZORN Slack workspace (you'll have to DM our Twitter for the link, since we're trying to avoid bots — and then add yourself to the Brisbane channel when you arrive) or head to the other communities in our network. 
+  All parties to BORN activities are subject to this code of conduct, this includes attendees, speakers, sponsors, and committee members and its provisions apply to both physical and non-physical spaces (e.g. on BORN associated social media platforms).
   </br></br>
-  BORN is inspired by the <a href="https://openscience-utrecht.com/">Open Science Community Utrecht</a>.  
-  
-#image   : images/about/mosn_sites.png
-aboutItem:
-  - title : What is open research?
-    description: > 
-      Open research is a term describing a variety of practices directed at maximising the transparency of research, and ultimately leading to maximisation of public goods. These include: Open Access publication, open data, open methodology, Open Source software, open educational resources & open peer review.
-  - title : Where should I start?
-    description: > 
-      Check if there is an open science community at your workplace, and if not, let us know. We might be able to help you start one! 
-  - title : What is the logo?
-    description: > 
-      The logo depicts the Wheel of Brisbane, a very noticeable part of Brisbane's skyline. It also represents the many individuals and groups in Brisbane coming together to form an eclectic but united community in the name of open research.
+  The Brisbane Open Research Network (BORN) seeks to promote open practices. We are committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all irrespective of race, gender, sexual orientation, ability, religious beliefs (or lack thereof), political beliefs, age, physical appearance, body size or socioeconomic status.
+  </br></br>
+  It is expected that parties to BORN activities:
