@@ -6,28 +6,42 @@
     <description>Recent content on Brisbane Open Research Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Making your open research community</title>
-      <link>/blog/making-your-open-research-community/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Code of Conduct</title>
+      <link>/code-of-conduct/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/making-your-open-research-community/</guid>
-      <description>The object of this network is the propagation of open research practices through local activities. Effectively, an open research community is like a nucleation site around which the snowflake (or pearl, whatever analogy you prefer) of open research develops. This network is like a snow machine (I&amp;rsquo;ve gone mad on analogies but stay with me), optimising the conditions for open practices to develop in your local area.
-To that end, this post intends to lay out how you can promote open research in your place of work and it borrows liberally from Loek Brinkman and Anita Eerland&amp;rsquo;s guide to forming the original Open science Community Utrecht.</description>
+      <guid>/code-of-conduct/</guid>
+      <description>Content for this page located in F:\Tools\RStudio\Default working directory\Repositories\testBORN\content\coc.md.
+ Interim Code of Conduct Summary The Brisbane Open Research Network (BORN) seeks to promote open practices, and as part of this vision is committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all. All parties to activities associated with the Network are required to be compliant with the code of conduct. If you observe something that you do not feel is consistent with these principles, please report them to the steering committee.</description>
     </item>
     
     <item>
-      <title>Melbourne Open Research Network</title>
-      <link>/portfolio/test/</link>
-      <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
+      <title>Events</title>
+      <link>/events/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/test/</guid>
-      <description>Melbourne Open Research Network Live in or around Melbourne? Head over to their website to find other Victorians interested in open research.</description>
+      <guid>/events/</guid>
+      <description>Brisbane Events Events taking place in Brisbane or online.  
+
+All ANZORN Events Events taking place anywhere in Australia, New Zealand, online, or (possibly) the world. For information regarding exactly where the event is happening, please click on the event name.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/testnewpost/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/testnewpost/</guid>
+      <description>{{ partial &amp;ldquo;about.html&amp;rdquo; . }}
+Testing to see if this new page appears anywhere. Okay, it does. Excellent. Now how do I remove the date and tags? Not by removing it from the YAML!
+For Markdown syntax: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Can I do line breaks just with enter? Kind of. But it didn&amp;rsquo;t add the extras. Twitter link Links work using html, so maybe linebreaks will too.     Add some words after the break.</description>
     </item>
     
   </channel>

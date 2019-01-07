@@ -1,7 +1,0 @@
-enable  : false
-galleryImages :
-  - image : images/portfolio/Deakin.jpg
-  - image : images/portfolio/Melbourne.jpg
-  - image : images/portfolio/Monash.jpg
-  - image : images/portfolio/Swinburne.jpg
-  - image : images/portfolio/LaTrobe.jpg

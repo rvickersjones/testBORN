@@ -25,11 +25,11 @@ body {
 }
 
 ul {
-  padding-left: 0;
+  padding-left: 50px;
 }
 
 ul li {
-  list-style: none;
+  list-style-type: disc;
 }
 
 a:hover {
@@ -386,7 +386,7 @@ a:hover {
 }
 
 #about {
-  padding: 110px 0;
+  padding: 10px 0;
 }
 
 #about .block {
@@ -919,11 +919,11 @@ article {
 }
 
 .single-post {
-  padding: 80px 0 20px;
+  padding: 0px 0 0px;
 }
 
 .single-post .post-content {
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
 .post-content blockquote p {

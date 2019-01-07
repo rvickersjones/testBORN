@@ -4,7 +4,6 @@ title = "Brisbane Open Research Network"
 theme = "timer-hugo"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
 # Site Menus
 [menu]
@@ -12,24 +11,27 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [[menu.nav]]
         name    = "About"
         url     = "/about"
-        weight  = 2
-    [[menu.nav]]
-        name    = "Code of Conduct"
-        url     = "/coc"
-        weight  = 3
-    [[menu.nav]]
-        name    = "Portfolio"
-        url     = "/portfolio"
-        weight  = 4
-    [[menu.nav]]
-        name    = "Services"
-        url     = "/service"
-        weight  = 5
+        weight  = 1
     [[menu.nav]]
         name    = "Contact"
         url     = "/contact"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Test"
+        url     = "/testnewpost"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Code of Conduct"
+        url     = "/code-of-conduct"
+        weight  = 4
+    [[menu.nav]]
+        name    = "404 page"
+        url     = "/404.html"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Events"
+        url     = "/events"
         weight  = 6
-
 
 # Site Params
 [params]
@@ -44,9 +46,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         bgImage = "images/bg.jpg"
         heading = "WELCOME TO THE BRISBANE OPEN RESEARCH NETWORK"
         description = "A hub for Open Research practitioners in Brisbane, Australia."
-        #btn     = true
-        #btnText = "Download More"
-        #btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
             title   = "COMMUNITY"
         [[params.banner.flipText]]
@@ -61,7 +60,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         enable  = true
         title   = "ABOUT THE NETWORK"
         content = "Open science and open research practices are growing in Australia, but it can be difficult to know who else is engaging in these practices. The Brisbane Open Research Network (BORN) is part of a larger network throughout Australia and New Zealand (ANZORN) aimed at promoting open research and helping to connect people to share resources, practices, and a sense of community. If you're not in Brisbane but like the sound of the community, check out the other communities in our network below. </br></br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research.</br></br>Follow our <a href='https://twitter.com/BrisOpenRes' target='_blank'>Twitter account</a> for updates.</br></br>BORN is an inclusive and welcoming community by design — to preserve this, BORN activities are subject to our <a href='/coc' target='_blank'>Code of Conduct</a>."
-        image   = "images/about/ferris-wheel.png"
+        image   = "images/ferris-wheel.png"
+
+    # Twitter and Slack Signup Section
+    [params.twitterslack]
+        enable  = true
+        ttitle   = "FOLLOW US"
+        tcontent = "<a class='twitter-timeline' data-height='600' href='https://twitter.com/BrisOpenRes?ref_src=twsrc%5Etfw'>Tweets by BrisOpenRes</a> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>"
+        stitle   = "JOIN US ON SLACK"
+        scontent = "Placeholder while I wait to discover if the MailChimp form can be embedded. If not, this will be an explanation of Slack (maybe) and a link to the form."
 
     # Call to Action
     [params.cta]
@@ -73,17 +80,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         btnPText = "Perth - coming soon"
         btnAText = "Adelaide - coming soon"
         btnNZText = "New Zealand"
-
-    # Portfolio Section On Homepage
-    [params.portfolio]
-        enable  = false
-        title   = "ANZORN Networks"
-        subtitle= "Want to connect with one of our partner networks?"
-
-    # Feature Product Section
-    [params.feature]
-        enable  = false
-        title   = "SOME OF OUR FEATURES WORKS"
-        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
-
     
