@@ -17,8 +17,7 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/code-of-conduct/</guid>
-      <description>Content for this page located in F:\Tools\RStudio\Default working directory\Repositories\testBORN\content\coc.md.
- Interim Code of Conduct Summary The Brisbane Open Research Network (BORN) seeks to promote open practices, and as part of this vision is committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all. All parties to activities associated with the Network are required to be compliant with the code of conduct. If you observe something that you do not feel is consistent with these principles, please report them to the steering committee.</description>
+      <description>Interim Code of Conduct Summary The Brisbane Open Research Network (BORN) seeks to promote open practices, and as part of this vision is committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all. All parties to activities associated with the Network are required to be compliant with the code of conduct. If you observe something that you do not feel is consistent with these principles, please report them to the steering committee.</description>
     </item>
     
     <item>
@@ -27,21 +26,9 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/events/</guid>
-      <description>Brisbane Events Events taking place in Brisbane or online.  
+      <description>Brisbane Events Events taking place in Brisbane or online. Click on the event name for details.  
 
 All ANZORN Events Events taking place anywhere in Australia, New Zealand, online, or (possibly) the world. For information regarding exactly where the event is happening, please click on the event name.</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>/testnewpost/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/testnewpost/</guid>
-      <description>{{ partial &amp;ldquo;about.html&amp;rdquo; . }}
-Testing to see if this new page appears anywhere. Okay, it does. Excellent. Now how do I remove the date and tags? Not by removing it from the YAML!
-For Markdown syntax: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-Can I do line breaks just with enter? Kind of. But it didn&amp;rsquo;t add the extras. Twitter link Links work using html, so maybe linebreaks will too.     Add some words after the break.</description>
     </item>
     
   </channel>

@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 # Brisbane Events
-## Events taking place in Brisbane or online.
+## Events taking place in Brisbane or online. Click on the event name for details.
 </br>
 <iframe src="https://calendar.google.com/calendar/b/2/embed?title=BORN&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=r0a4ct3r5ndqtkfq44ujbbckso%40group.calendar.google.com&amp;color=%235C1158&amp;ctz=Australia%2FBrisbane" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 

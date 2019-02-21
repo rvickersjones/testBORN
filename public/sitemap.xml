@@ -13,16 +13,6 @@
   </url>
   
   <url>
-    <loc>/testnewpost/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
@@ -39,14 +29,7 @@
   </url>
   
   <url>
-    <loc>/tags/help/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

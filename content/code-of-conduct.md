@@ -7,8 +7,6 @@ categories: []
 tags: []
 ---
 
-> Content for this page located in F:\Tools\RStudio\Default working directory\Repositories\testBORN\content\coc.md.
-
 # Interim Code of Conduct
 
 ## Summary
